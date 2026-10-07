@@ -1,0 +1,17 @@
+# Vercel's published output is modern/. Keep preservation and recovery inputs
+# out of CLI upload bundles; they remain in the repository.
+/original/
+/archive-data/
+/tools/
+/vendor/
+/dist/
+/app.js
+/index.html
+/styles.css
+/README.md
+/RECOVERY_REPORT.md
+/broken-resource-report.json
+/broken-resource-report.md
+/media-inspection.json
+/recovery-manifest.json
+/validation-report.json

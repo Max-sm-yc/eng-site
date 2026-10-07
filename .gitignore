@@ -1,2 +1,4 @@
 .sites-checkout/
 .sites-checkout-*/
+__pycache__/
+*.py[cod]

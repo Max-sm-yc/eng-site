@@ -1,0 +1,83 @@
+{
+  "checked_at": "2026-10-07T17:26:17.676584+00:00",
+  "copies": {
+    "original": {
+      "base_url": "http://127.0.0.1:8765",
+      "html_page_count": 55,
+      "html_pages_passed": 55,
+      "html_failures": [],
+      "assets": {
+        "animated_gif_sample": {
+          "url": "http://127.0.0.1:8765/images/ee1.gif",
+          "status": 200,
+          "content_type": "image/gif",
+          "content_length": "109508",
+          "error": null
+        },
+        "swf_sample": {
+          "url": "http://127.0.0.1:8765/flashanimations/section/section.swf",
+          "status": 200,
+          "content_type": "application/vnd.adobe.flash.movie",
+          "content_length": "56117081",
+          "error": null
+        },
+        "documented_swf_alias": {
+          "url": "http://127.0.0.1:8765/flash_pictures/test/sp.swf",
+          "status": 200,
+          "content_type": "application/vnd.adobe.flash.movie",
+          "content_length": "60774",
+          "error": null
+        }
+      },
+      "asset_failures": []
+    },
+    "modern": {
+      "base_url": "http://127.0.0.1:8766",
+      "html_page_count": 56,
+      "html_pages_passed": 56,
+      "html_failures": [],
+      "assets": {
+        "animated_gif_sample": {
+          "url": "http://127.0.0.1:8766/images/ee1.gif",
+          "status": 200,
+          "content_type": "image/gif",
+          "content_length": "109508",
+          "error": null
+        },
+        "swf_sample": {
+          "url": "http://127.0.0.1:8766/flashanimations/section/section.swf",
+          "status": 200,
+          "content_type": "application/vnd.adobe.flash.movie",
+          "content_length": "56117081",
+          "error": null
+        },
+        "ruffle_runtime": {
+          "url": "http://127.0.0.1:8766/ruffle/ruffle.js",
+          "status": 200,
+          "content_type": "text/javascript",
+          "content_length": "466012",
+          "error": null
+        },
+        "ruffle_player": {
+          "url": "http://127.0.0.1:8766/player.html",
+          "status": 200,
+          "content_type": "text/html",
+          "content_length": "865",
+          "error": null
+        },
+        "ruffle_wasm": {
+          "url": "http://127.0.0.1:8766/ruffle/6bd0bf4499a1d6ead2fc.wasm",
+          "status": 200,
+          "content_type": "application/wasm",
+          "content_length": "14242600",
+          "error": null
+        }
+      },
+      "asset_failures": []
+    }
+  },
+  "browser_flash_playback": {
+    "status": "UNVERIFIED",
+    "note": "A headless Firefox attempt to open a SWF-backed lesson through Ruffle timed out with a graphics framebuffer error and produced no screenshot."
+  }
+}

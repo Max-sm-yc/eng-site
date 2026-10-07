@@ -1,0 +1,353 @@
+{
+  "gif_and_swf_assets": [
+    {
+      "local_path": "original/fireworkspopuptemplatenew/spacer.gif",
+      "width": 1,
+      "height": 1,
+      "frames": 1,
+      "duration_seconds": 0.2,
+      "animated": false
+    },
+    {
+      "local_path": "original/flash_pictures/test/sp.swf",
+      "signature": "CWS",
+      "version": 7,
+      "declared_uncompressed_bytes": 193803,
+      "file_bytes": 60774
+    },
+    {
+      "local_path": "original/flashanimations/22.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 212525,
+      "file_bytes": 212525
+    },
+    {
+      "local_path": "original/flashanimations/e/e.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 1400946,
+      "file_bytes": 1400946
+    },
+    {
+      "local_path": "original/flashanimations/eee/eee.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 3133558,
+      "file_bytes": 3133558
+    },
+    {
+      "local_path": "original/flashanimations/ep/ep.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 4833919,
+      "file_bytes": 4833919
+    },
+    {
+      "local_path": "original/flashanimations/firstangle/firstangle.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 8098790,
+      "file_bytes": 8098790
+    },
+    {
+      "local_path": "original/flashanimations/openingmovie.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 1734514,
+      "file_bytes": 1734514
+    },
+    {
+      "local_path": "original/flashanimations/p/p.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 2083317,
+      "file_bytes": 2083317
+    },
+    {
+      "local_path": "original/flashanimations/ps/ps.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 5708040,
+      "file_bytes": 5708040
+    },
+    {
+      "local_path": "original/flashanimations/section/section.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 56117081,
+      "file_bytes": 56117081
+    },
+    {
+      "local_path": "original/flashanimations/thirdangle/thirdangle.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 8685206,
+      "file_bytes": 8685206
+    },
+    {
+      "local_path": "original/flashanimations/visnew.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 378986,
+      "file_bytes": 378986
+    },
+    {
+      "local_path": "original/flashanimations/visualation/visualation.swf",
+      "signature": "FWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 1118031,
+      "file_bytes": 1118031
+    },
+    {
+      "local_path": "original/free1/images/blue_crn.gif",
+      "width": 37,
+      "height": 22,
+      "frames": 1,
+      "duration_seconds": 0.2,
+      "animated": false
+    },
+    {
+      "local_path": "original/free1/images/blue_fill.gif",
+      "width": 13,
+      "height": 22,
+      "frames": 1,
+      "duration_seconds": 0.2,
+      "animated": false
+    },
+    {
+      "local_path": "original/free1/images/bullet.gif",
+      "width": 8,
+      "height": 14,
+      "frames": 1,
+      "duration_seconds": 0.2,
+      "animated": false
+    },
+    {
+      "local_path": "original/free1/images/footer_right.gif",
+      "width": 110,
+      "height": 27,
+      "frames": 1,
+      "duration_seconds": 0.2,
+      "animated": false
+    },
+    {
+      "local_path": "original/free1/images/footer_right2.gif",
+      "width": 110,
+      "height": 38,
+      "frames": 1,
+      "duration_seconds": 0.2,
+      "animated": false
+    },
+    {
+      "local_path": "original/free1/images/lt_blue_fill.gif",
+      "width": 13,
+      "height": 22,
+      "frames": 1,
+      "duration_seconds": 0.2,
+      "animated": false
+    },
+    {
+      "local_path": "original/free1/images/sitename.gif",
+      "width": 321,
+      "height": 84,
+      "frames": 1,
+      "duration_seconds": 0.07,
+      "animated": false
+    },
+    {
+      "local_path": "original/images/adobereader_logo.gif",
+      "width": 150,
+      "height": 142,
+      "frames": 1,
+      "duration_seconds": 0.2,
+      "animated": false
+    },
+    {
+      "local_path": "original/images/audiobutton1.gif",
+      "width": 44,
+      "height": 36,
+      "frames": 1,
+      "duration_seconds": 0.07,
+      "animated": false
+    },
+    {
+      "local_path": "original/images/drawing45.gif",
+      "width": 620,
+      "height": 450,
+      "frames": 9,
+      "duration_seconds": 18.0,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/drawingarc.gif",
+      "width": 620,
+      "height": 450,
+      "frames": 9,
+      "duration_seconds": 18.0,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/ee1.gif",
+      "width": 471,
+      "height": 499,
+      "frames": 28,
+      "duration_seconds": 13.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/hidden_detaila.gif",
+      "width": 506,
+      "height": 501,
+      "frames": 28,
+      "duration_seconds": 13.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/lineasanedge.gif",
+      "width": 619,
+      "height": 469,
+      "frames": 28,
+      "duration_seconds": 15.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/lineasanedge2.gif",
+      "width": 619,
+      "height": 469,
+      "frames": 28,
+      "duration_seconds": 15.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/lineasaslope.gif",
+      "width": 386,
+      "height": 486,
+      "frames": 28,
+      "duration_seconds": 13.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/lineaschangeindirection.gif",
+      "width": 604,
+      "height": 501,
+      "frames": 28,
+      "duration_seconds": 13.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/object2.gif",
+      "width": 619,
+      "height": 469,
+      "frames": 28,
+      "duration_seconds": 15.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/object6a.gif",
+      "width": 324,
+      "height": 499,
+      "frames": 28,
+      "duration_seconds": 13.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/object9a.gif",
+      "width": 615,
+      "height": 488,
+      "frames": 28,
+      "duration_seconds": 13.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/object9b.gif",
+      "width": 600,
+      "height": 496,
+      "frames": 28,
+      "duration_seconds": 13.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/p1.gif",
+      "width": 617,
+      "height": 501,
+      "frames": 28,
+      "duration_seconds": 13.2,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/sectiongif.gif",
+      "width": 1226,
+      "height": 834,
+      "frames": 5,
+      "duration_seconds": 10.0,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/sketching_exercise3.gif",
+      "width": 620,
+      "height": 452,
+      "frames": 22,
+      "duration_seconds": 66.0,
+      "animated": true
+    },
+    {
+      "local_path": "original/images/tube.gif",
+      "width": 509,
+      "height": 531,
+      "frames": 54,
+      "duration_seconds": 15.88,
+      "animated": true
+    },
+    {
+      "local_path": "original/quizortho.swf",
+      "signature": "CWS",
+      "version": 8,
+      "declared_uncompressed_bytes": 196932,
+      "file_bytes": 82516
+    },
+    {
+      "local_path": "original/sectionquiz.swf",
+      "signature": "CWS",
+      "version": 8,
+      "declared_uncompressed_bytes": 163651,
+      "file_bytes": 58488
+    },
+    {
+      "local_path": "original/sp.swf",
+      "signature": "CWS",
+      "version": 7,
+      "declared_uncompressed_bytes": 193803,
+      "file_bytes": 60774
+    },
+    {
+      "local_path": "original/webpages/b1.swf",
+      "signature": "CWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 393763,
+      "file_bytes": 267792
+    },
+    {
+      "local_path": "original/webpages/c1.swf",
+      "signature": "CWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 535619,
+      "file_bytes": 447874
+    },
+    {
+      "local_path": "original/webpages/h1.swf",
+      "signature": "CWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 297071,
+      "file_bytes": 208799
+    },
+    {
+      "local_path": "original/webpages/s1.swf",
+      "signature": "CWS",
+      "version": 6,
+      "declared_uncompressed_bytes": 240579,
+      "file_bytes": 181103
+    }
+  ],
+  "invalid_assets": []
+}

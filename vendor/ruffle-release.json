@@ -1,0 +1,8 @@
+{
+  "upstream": "https://github.com/ruffle-rs/ruffle",
+  "release_tag": "nightly-2026-10-06",
+  "asset_name": "ruffle-nightly-2026_10_06-web-selfhosted.zip",
+  "asset_url": "https://github.com/ruffle-rs/ruffle/releases/download/nightly-2026-10-06/ruffle-nightly-2026_10_06-web-selfhosted.zip",
+  "asset_bytes": 10506360,
+  "asset_sha256": "05301e90a9ad53c3c5a22ca384ac223e52cc904ae4faac71e3989fd8de3257f2"
+}

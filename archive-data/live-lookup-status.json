@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-07",
+  "cdx_api": {
+    "url": "https://web.archive.org/cdx/search/cdx",
+    "status": "TIMEOUT",
+    "timeout_seconds": 15,
+    "note": "An exact-query probe returned no response bytes. A separate exact query for an unresolved reference also failed to return before interruption."
+  },
+  "availability_api": {
+    "url": "https://archive.org/wayback/available",
+    "status": 429,
+    "message": "Too Many Requests",
+    "reference_checked": "audio/10.wav",
+    "note": "Further live lookups were stopped to respect the rate limit."
+  },
+  "offline_fallback": "Every unresolved local path was checked against the saved full-period www3.ul.ie site-namespace CDX inventory and the on-demand CDX cache. A capture on an alternate host cannot be ruled out for paths absent from those inventories."
+}
